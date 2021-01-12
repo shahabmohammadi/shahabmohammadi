@@ -17,6 +17,7 @@ I love to explore new technologies. I use the following technologies to create m
 - **Vue.js** - Front End Development
 
 I am on project manager position full time in SazgarIT company.
+<br>
 And Also I graduated Bachelors Degree of CS from Islamic Azad University of QODS. 
 ### 🎹 Music
 
