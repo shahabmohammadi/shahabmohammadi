@@ -16,6 +16,8 @@ I love to explore new technologies. I use the following technologies to create m
 - **Django** - Backend Development
 - **Vue.js** - Front End Development
 
+I am on project manager position full time in SazgarIT company.
+And Also I graduated Bachelors Degree of CS from Islamic Azad University of QODS. 
 ### 🎹 Music
 
 Sometimes I decide to get away from tech life and move back into my music production life style. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own musics and also what I listen.
