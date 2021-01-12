@@ -14,6 +14,7 @@ def create_readme():
     readme = io.open('../readme.md', 'w+')
     for line in io.open('readme.template.md', 'r'):
         line = line.replace('{{age}}', get_age('1994-09-19'))
+        line = line.replace('{{last_updated}}', get_last_updated())
         readme.write(line)
     readme.close()
 
@@ -28,6 +29,14 @@ def get_age(dob):
     age = (now - dob).days
     return str(age)
 
+
+def get_last_updated():
+    """
+    Returns the last updated date.
+    """
+
+    now = datetime.now()
+    return datetime.strftime(now, '%d %b, %Y')
 
 
 def main():
