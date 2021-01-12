@@ -1,6 +1,6 @@
-On this planet for **8304 days**
+On this planet for **{{age}} days**.
 
-# Hello Beautiful! <img src="assets/wave.gif" width="32px">
+# Welcome To My Life <img src="assets/wave.gif" width="32px">
 
 <img src="assets/banner.png" style="margin-bottom:16px;">
 
@@ -21,4 +21,4 @@ I love to explore new technologies. I use the following technologies to create m
 Sometimes I decide to get away from tech life and move back into my music production life style. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own musics and also what I listen.
 
 
-<sub>Last updated by Github Actions on 12 Jan, 2021.</sub>
+<sub>Last updated by Github Actions on {{last_updated}}.</sub>
