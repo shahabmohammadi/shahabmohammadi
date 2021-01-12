@@ -13,7 +13,7 @@ def create_readme():
 
     readme = io.open('../readme.md', 'w+')
     for line in io.open('readme.template.md', 'r'):
-        line = line.replace('{{age}}', get_age('1998-04-19'))
+        line = line.replace('{{age}}', get_age('1994-09-19'))
         readme.write(line)
     readme.close()
 
