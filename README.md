@@ -6,11 +6,11 @@ On this planet for **9612 days**.
 
 ### 😄 About
 
-Currently, I am juggling between my dream and managing my life. I am pursuing FinTech in Computer Science.
+Currently, I am juggling between my dreams and managing my lifestyle. I am pursuing FinTech in Computer Science.
 
 ### 💻 Study and Work
 
-I love to explore new technologies. I use the following technologies to create my ideas. I try to automate almost everything that comes my way as it helps to improve my creativity and make new ideas.
+I love to explore new technologies. I use the following technologies to create my own ideas. I try to automate almost everything that comes my way as it helps to improve my creativity mindset and also make new ideas.
 
 - **Python** - Almost Everywhere
 - **Django** - Backend Development
