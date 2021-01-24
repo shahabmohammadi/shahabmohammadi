@@ -10,18 +10,18 @@ Currently, I am juggling between my dreams and managing my lifestyle. I am pursu
 
 ### 💻 Study and Work
 
-I love to explore new technologies. I use the following technologies to create my own ideas. I try to automate almost everything that comes my way as it helps to improve my creativity mindset and also make new ideas.
+I love to explore new technologies. I use the following technologies to create my own ideas. I try to automate almost everything that comes my way as it helps to improve my creative mindset and also make new ideas.
 
 - **Python** - Almost Everywhere
 - **Django** - Backend Development
 - **Vue.js** - Front End Development
 
-I am on project manager position full time in SazgarIT company.
+I am in a project manager position full-time in SazgarIT company.
 <br>
-And Also I graduated Bachelors Degree of CS from Islamic Azad University of QODS. 
+And Also I graduated Bachelors's Degree in CS from the Islamic Azad University of QODS. 
 ### 🎹 Music
 
-Sometimes I decide to get away from tech life and move back into my music production life style. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own musics and also what I listen.
+Sometimes I decide to get away from tech life and move back into my music production lifestyle. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own pieces of music and also what I listen to.
 
 
 <sub>Last updated by Github Actions on 13 Jan, 2021.</sub>
