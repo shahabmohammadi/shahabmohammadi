@@ -16,7 +16,7 @@ I love to explore new technologies. I use the following technologies to create m
 - **Django** - Backend Development
 - **Vue.js** - Front End Development
 
-I am in a project manager position full-time in SazgarIT company, please check my [LinkedIn](https://www.linkedin.com/in/shahab-mohammadi-stevelex/)
+I am in a project manager position full-time in SazgarIT company, please check my [LinkedIn](https://www.linkedin.com/in/shahab-mohammadi-stevelex/).
 <br>
 And Also I graduated Bachelors's Degree in CS from the Islamic Azad University of QODS. 
 ### 🎹 Music
