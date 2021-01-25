@@ -23,5 +23,6 @@ And Also I graduated Bachelors's Degree in CS from the Islamic Azad University o
 
 Sometimes I decide to get away from tech life and move back into my music production lifestyle. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own pieces of music and also what I listen to.
 
+If what you are trying to know about my business persona is not here you could please check my [LinkedIn](https://www.linkedin.com/in/shahab-mohammadi-stevelex/).
 
 <sub>Last updated by Github Actions on {{last_updated}}.</sub>
