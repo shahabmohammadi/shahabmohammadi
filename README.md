@@ -18,7 +18,7 @@ I love to explore new technologies. I use the following technologies to create m
 
 I am in a project manager position full-time in SazgarIT company,
 <br>
-And Also I graduated Bachelors's Degree in CS from the Islamic Azad University of QODS. 
+I graduated computer science from the Islamic Azad University. 
 ### 🎹 Music
 
 Sometimes I decide to get away from tech life and move back into my music production lifestyle. I have [Soundcloud channel](https://soundcloud.com/elex-stevelex), where you can listen to my own pieces of music and also what I listen to.
